@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "be9d0c792c7d57bda92fcf8704f4e8fd",
+    "revision": "059efa2541f889876d8658d9401a5e46",
     "url": "chat.infinite-omicron.com/index.html"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "chat.infinite-omicron.com/static/css/7.de22f8ba.chunk.css"
   },
   {
-    "revision": "c0645ce84dc178778fdd",
+    "revision": "5173b425a4b3c6d0b9ba",
     "url": "chat.infinite-omicron.com/static/css/main.58a673fb.chunk.css"
   },
   {
@@ -48,8 +48,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "chat.infinite-omicron.com/static/js/7.cbe0c957.chunk.js"
   },
   {
-    "revision": "c0645ce84dc178778fdd",
-    "url": "chat.infinite-omicron.com/static/js/main.89459b59.chunk.js"
+    "revision": "5173b425a4b3c6d0b9ba",
+    "url": "chat.infinite-omicron.com/static/js/main.29c478ab.chunk.js"
   },
   {
     "revision": "07ebcf27fb23797b55ec",
